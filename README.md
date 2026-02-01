@@ -1,6 +1,7 @@
 # Superstore Sales Analysis (Power BI)
 
 ## Project Overview
+**Total Sales Analyzed**: $2.3M+ across categories and regions
 This project analyzes sales and profit performance of a retail superstore using Power BI.
 The goal was to identify category-level trends, regional performance, and profitability insights
 to support data-driven business decisions.
